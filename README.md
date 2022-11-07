@@ -12,7 +12,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
-## [GO LIVE]()
+## [GO LIVE](https://countdown-js-live-project.netlify.app/)
 
 ## ![image](./Images/Screenshot%202022-11-07%20150841.png)
 
